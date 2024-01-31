@@ -1,8 +1,10 @@
 # depslib dependency file v1.0
-1706673752 source:c:\users\zande\onedrive\desktop\github repos\blockexplorer\blockexplorer\main.cpp
+1706729418 source:c:\users\zande\onedrive\desktop\github repos\blockexplorer\blockexplorer\main.cpp
 	<stdio.h>
 	<SDL.h>
 	<iostream>
+	"Block.h"
+	"Controls.h"
 
 1680720414 c:\users\zande\sdl\sdl2-2.26.5\i686-w64-mingw32\include\sdl2\sdl.h
 	"SDL_main.h"
@@ -392,4 +394,11 @@
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
+
+1706729466 c:\users\zande\onedrive\desktop\github repos\blockexplorer\blockexplorer\block.h
+	<cmath>
+	<vector>
+	<SDL.h>
+
+1706729004 c:\users\zande\onedrive\desktop\github repos\blockexplorer\blockexplorer\controls.h
 
